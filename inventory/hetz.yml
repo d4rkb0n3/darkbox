@@ -1,4 +1,4 @@
 vps:
-  hosts: 49.13.29.35
+  hosts: <YOUR VPS IP>
 
 
